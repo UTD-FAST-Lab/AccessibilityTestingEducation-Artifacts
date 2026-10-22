@@ -13,7 +13,8 @@
     - [Labels and Data](#labels-and-data)
 
 ## Purpose
-This artifact contains the lectures, assignments, interview questions, code to calculate agreement rate, and the data for the paper title ***"Beyond the Checklist: Teaching Software Accessibility from a Testing Perspective"***
+This artifact contains the lectures, assignments, interview questions, code to calculate agreement rate, and the data for the paper title ***"An Experience Report on Teaching Software
+Accessibility From a Testing Perspective"***
 
 The 'lectures' directory contains the lectures given throughout the course series (***Note***: The lectures will be added after the reviewing process to remain anonymous).
 
