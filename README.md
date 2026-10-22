@@ -41,4 +41,4 @@ The 'questions' directory contains the six questions that were employed as a gui
 The 'agreement-code' directory contains the code used to calculate the agreement rate between the three authors in charge of labeling the data. The code was retrieved from: https://stackoverflow.com/questions/68364284/.
 
 #### Label and Data
-The 'label-and-data' directory contains two draft templates, one for each pair of assignments, with the initial labels the authors came up during the preliminary phases of the data analysis. It also includes, the final labels and the data analyzed in the study.
+The 'label-and-data' directory contains two draft templates, one for each pair of assignments, with the initial labels the authors came up during the preliminary phases of the data analysis. It also includes, the final labels and the data analyzed in the study, along with a description of the process followed to analyzed the data and the agreement of said analysis.
